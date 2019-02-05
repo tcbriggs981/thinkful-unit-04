@@ -1,0 +1,18 @@
+Define the likelihood that an individual will contract a specific disease
+- Supervised
+
+---
+Translate a set of images into variables for modeling
+- Unsupervised
+
+---
+An ecommerce company wants to identify power users
+- Supervised
+
+---
+That same company wants to see shopping patterns in users
+- Unsupervised
+
+---
+You want to reduce the number of variables inputting into your random forest model
+- Unsupervised or Supervised, could use PCA as well.
